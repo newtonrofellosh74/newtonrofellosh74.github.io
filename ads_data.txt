@@ -30,6 +30,6 @@
   "ad_splash": "",
   "loading_time": 10,
   "akiu": "0a07408461fd9d7a08e587c651bb635b",
-  "yiuag": "aHR0cHM6Ly92b29kLnNpdGU=",
+  "yiuag": "aHR0cHM6Ly9tYWlubXYud29yaw==",
   "cjokt": "aHR0cDovL2lwLWFwaS5jb20vanNvbj9maWVsZHM9aXNwLG9yZyxhcyxxdWVyeQ=="
 }
